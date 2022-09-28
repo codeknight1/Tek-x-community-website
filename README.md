@@ -1,1 +1,2 @@
-# Tek-x-community-website
+# Tek-x community
+![tekx img](tekx.png)
